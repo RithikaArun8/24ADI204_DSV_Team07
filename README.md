@@ -202,7 +202,7 @@ The project can be extended by:
 * Comparing logistics performance across different periods.
 * Developing an automated delivery-risk scoring system.
 
-## 📊 Dataset
+## Dataset
 
 The datasets used in this project are:
 
